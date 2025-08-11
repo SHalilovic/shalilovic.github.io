@@ -50,8 +50,5 @@
       "year": "2017",
       "summary": "Professorship for Electrical Power Supply Networks"
     }
-  ],
-  "teaching": [
-      {% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}
   ]
 }
