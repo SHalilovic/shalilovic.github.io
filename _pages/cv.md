@@ -63,6 +63,11 @@ author_profile: true
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Awards" | capitalize }}</h2>
 </div>
   * 2025 EuroTech Visiting Researcher (EPFL)
-  <h3 style="margin-bottom: 0.2em; font-size: 1.1em;"><b>{{ 2024 Summa cum laude - PhD thesis }}</b></h3>
   * 2024 Summa cum laude - PhD thesis
+  * 2015 Award from the President of BiH for the most successful university students
+  * 2015 Gold Medal (Valedictorian) at the University of Tuzla
+  * 2012–2015 Scholarship of “Elektroprivreda BiH” (Public Enterprise Electric Utility) for talented students
+  * 2012–2014 Scholarship of Fund “Bosniaks” for talented students
+  * 2011 Valedictorian of the High School (Bosnia)
+  * 2011 Honourable Mention – 42nd International Physics Olympiad IPhO (Bangkok)
   
