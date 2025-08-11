@@ -52,35 +52,6 @@
     }
   ],
   "teaching": [
-    {
-      "title": "Active Distribution Grids",
-	  "comment": "Lecture Course",
-      "year": "2020-present",
-	  "summary": " "
-    },
-    {
       {% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}
-	  
-    }
-  ],
-  "current projects": [
-    {
-      "title": "PhyLFlex",
-	  "comment": "BMWE",
-      "year": "2025-present",
-      "details": "Benchmarking home energy management systems in a real distribution grid."
-    },    
-	{
-      "title": "DirectGreenEnergy4Trains",
-	  "comment": "EFRE NRW",
-      "year": "2025-present",
-      "details": "PHIL emulation of DERs for traction grid Virtual power plants."
-    },
-    {
-      "title": "SHINE",
-	  "comment": "BMFTR",
-      "year": "2025-present",
-      "details": "PHIL twin of a grid connected PEM-Electrolyser."
-	}
   ]
 }
