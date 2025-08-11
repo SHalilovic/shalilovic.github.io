@@ -62,7 +62,7 @@ author_profile: true
 <div class="cv-section" style="margin-bottom: 2em;">
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Awards" | capitalize }}</h2>
 </div>
-  * 2025 EuroTech Visiting Researcher (EPFL)
+  *  <b>2025</b> \t EuroTech Visiting Researcher (EPFL)
   * 2024 Summa cum laude - PhD thesis
   * 2015 Award from the President of BiH for the most successful university students
   * 2015 Gold Medal (Valedictorian) at the University of Tuzla
