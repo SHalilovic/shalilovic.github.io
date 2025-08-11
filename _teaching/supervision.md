@@ -7,7 +7,7 @@ venue: "TUM"
 date: 2019-01-01
 ---
 
-Supervision of students.
+Supervision of students (2019-now).
 
 **Master Theses**
 
