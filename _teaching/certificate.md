@@ -1,7 +1,7 @@
 ---
-title: "Certificate"
+title: "ProLehre Certificate"
 collection: teaching
-type: "Teaching certificate"
+type: "Teaching Certificate"
 permalink: /teaching/certificate
 venue: "TUM"
 date: 2020-01-01
