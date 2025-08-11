@@ -3,11 +3,11 @@ permalink: /
 title: "Under construction!"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
 
-About me ...
+Research ...
 
 A data-driven personal website
 ======
