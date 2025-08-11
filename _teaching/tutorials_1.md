@@ -7,5 +7,7 @@ venue: "TUM"
 date: 2019-01-01
 ---
 
-Topics: cellular automata, agent-based modelling, complex networks, sociodynamics.
 Tutorials in: SS19, SS20, SS21, SS22, SS23
+
+Topics: cellular automata, agent-based modelling, complex networks, sociodynamics.
+
