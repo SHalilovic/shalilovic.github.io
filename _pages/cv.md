@@ -39,29 +39,30 @@ author_profile: true
 {% endfor %}
 
 <div class="cv-section" style="margin-bottom: 2em;">
-
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Publications" | capitalize }}</h2>
-
 </div>
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <div class="cv-section" style="margin-bottom: 2em;">
-
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Talks" | capitalize }}</h2>
-
 </div>
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 <div class="cv-section" style="margin-bottom: 2em;">
-
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Teaching" | capitalize }}</h2>
-
 </div>
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<div class="cv-section" style="margin-bottom: 2em;">
+  <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Awards" | capitalize }}</h2>
+</div>
+  * 2025 EuroTech Visiting Researcher (EPFL)
+  <h3 style="margin-bottom: 0.2em; font-size: 1.1em;"><b>{{ 2024 Summa cum laude - PhD thesis }}</b></h3>
+  * 2024 Summa cum laude - PhD thesis
   
