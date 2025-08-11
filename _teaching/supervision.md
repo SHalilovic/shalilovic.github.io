@@ -9,11 +9,11 @@ date: 2019-01-01
 
 Supervision of students.
 
-Heading 1
+Master Theses
 ======
 
-Heading 2
+Research Internships
 ======
 
-Heading 3
+Advanced Seminar Theses
 ======
