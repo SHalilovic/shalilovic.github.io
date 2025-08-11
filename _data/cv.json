@@ -1,28 +1,22 @@
 {
   "education": [
     {
-      "degree": "PhD (Dr. -Ing.)",
+      "degree": "PhD in Engineering",
       "uni": "Technical University of Munich, Germany",
-      "year": "2018-2023 (magna cum laude)",
-      "summary": "Thesis - Theory to Practice: Design, Integration and Applications for an Active Distribution Grid Laboratory."
+      "year": "2019-2024 (summa cum laude)",
+      "summary": "Topic: Optimization of open-loop shallow geothermal systems"
     },
     {
-      "degree": "M.Sc.",
+      "degree": "Master of Science",
       "uni": "Technical University of Munich, Germany",
-      "year": "2015-2018",
-	  "summary": "Power Engineering"
+      "year": "2016-2018 (high distinction)",
+	  "summary": "Electrical Engineering and Information Technology | Power Engineering"
     },
     {
-      "degree": "B.Tech",
-      "uni": "National Institute of Technology, Rourkela, India",
-      "year": "2008-2012",
-	  "summary": "Electrical Engineering"
-    },
-    {
-      "degree": "High School Diploma",
-      "uni": "MGM English School, Rourkela, India",
-      "year": "2008",
-	  "summary": "Indian School Certificate Examination (ICSE)"
+      "degree": "Bachelor in Electrical Engineering",
+      "uni": "University of Tuzla, Bosnia",
+      "year": "2011-2015 (Valedictorian)",
+	  "summary": "Electrical Power Engineering"
     }
   ],
   "work": [
