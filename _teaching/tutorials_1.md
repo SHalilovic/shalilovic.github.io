@@ -4,8 +4,7 @@ collection: teaching
 type: "Master's level course"
 permalink: /teaching/tutorials_1
 venue: "TUM"
-date: 2019-2023
-#location: "City, Country"
+date: 2019-01-01
 ---
 
 Topics: cellular automata, agent-based modelling, complex networks, sociodynamics.
