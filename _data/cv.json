@@ -59,10 +59,7 @@
 	  "summary": " "
     },
     {
-      "title": "Decentralized Energy Systems",
-	  "comment": "Lab Course",
-      "year": "2018-present",
-	  "summary": " "
+      {% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}
 	  
     }
   ],
