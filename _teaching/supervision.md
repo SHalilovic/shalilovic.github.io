@@ -9,11 +9,8 @@ date: 2019-01-01
 
 Supervision of students.
 
-Master Theses
-======
+**Master Theses**
 
-Research Internships
-======
+**Research Internships**
 
-Advanced Seminar Theses
-======
+**Advanced Seminar Theses**
