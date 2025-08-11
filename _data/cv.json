@@ -4,7 +4,7 @@
       "degree": "PhD in Engineering",
       "uni": "Technical University of Munich, Germany",
       "year": "2019-2024 (summa cum laude)",
-      "summary": "Topic: Optimization of open-loop shallow geothermal systems"
+      "summary": "Thesis: Optimization of open-loop shallow geothermal systems"
     },
     {
       "degree": "Master of Science",
@@ -21,28 +21,34 @@
   ],
   "experience": [
     {
-      "position": "Research Group Leader",
+      "position": "Postdoctoral Researcher & Research Group Leader",
       "company": "Technical University of Munich",
       "year": "2024-present",
-      "summary": "Center of Combined Smart Energy Systems."
+      "summary": "Applied Optimization Group, Chair of Renewable and Sustainable Energy Systems"
     },
     {
-      "position": "Research Associate",
+      "position": "Research and Teaching Assistant",
       "company": "Technical University of Munich",
-      "year": "2018-2023",
-      "summary": "Center of Combined Smart Energy Systems."
+      "year": "2019-2024",
+      "summary": "Chair of Renewable and Sustainable Energy Systems"
+    },
+    {
+      "position": "Visiting Researcher",
+      "company": "Imperial College London",
+      "year": "10.-12.2021",
+      "summary": "Prof. Matthew D.Piggott, Department of Earth Science and Engineering"
+    },
+    {
+      "position": "Research Assistant",
+      "company": "Fraunhofer ISE, Freiburg, Germany",
+      "year": "2018-2019",
+      "summary": "Institute for Solar Energy Systems"
     },
     {
       "position": "Student Research Assistant",
       "company": "Technical University of Munich",
-      "year": "2017-2018",
-      "summary": "Chair of Renewable and Sustainable Energy Systems."
-    },
-    {
-      "position": "Electrical Engineer",
-      "company": "Rio Tinto Iron Ore, Western Australia",
-      "year": "2012-2015",
-      "summary": "Electrical Engineer, Robe Valley Iron Ore Mine <br> Project Engineer, Rio Tinto Expansion Projects"
+      "year": "2017",
+      "summary": "Professorship for electrical power supply networks"
     }
   ],
   "teaching": [
