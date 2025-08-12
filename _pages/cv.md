@@ -46,7 +46,7 @@ author_profile: true
   {% endfor %}</ul> -->
   
 <div class="cv-section" style="margin-bottom: 2em;">
-  <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{[{ "Talks" | capitalize }](/talks/)}</h2>
+  <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ ["Talks"](/talks/) | capitalize }}</h2>
 </div>
 
   
