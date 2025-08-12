@@ -48,6 +48,7 @@ author_profile: true
 <div class="cv-section" style="margin-bottom: 2em;">
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Talks" | capitalize }}</h2>
 </div>
+[Link](/publications/)
 <!--   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
