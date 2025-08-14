@@ -37,4 +37,4 @@ author_profile: true
 {% endfor %}
 
 <!-- This line loads your separate, reliable JavaScript file -->
-
+<script src="/assets/js/custom-scripts.js"></script>
