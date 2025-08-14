@@ -38,12 +38,6 @@ author_profile: true
 
 {% endfor %}
 
-<div class="cv-section" style="margin-bottom: 2em;">
-  <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ "Publications" | capitalize }}</h2>
-</div>
-<!--   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 <div class="cv-section" style="margin-bottom: 2em;">
   <h2 style="border-bottom: 1px solid #e5e5e5; padding-bottom: 0.5em;">{{ ["Talks"](/talks/) | capitalize }}</h2>
