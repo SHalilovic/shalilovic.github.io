@@ -1,5 +1,5 @@
 ---
-title: "Supervision"
+title: "Student supervision"
 collection: teaching
 type: "Graduate level"
 permalink: /teaching/supervision
