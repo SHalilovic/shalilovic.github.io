@@ -1,5 +1,5 @@
 ---
-title: "Lectures \| Tutorials"
+title: "Lectures \|\ Tutorials"
 collection: teaching
 type: "Master's level course"
 permalink: /teaching/tutorials_1
